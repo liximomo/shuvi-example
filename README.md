@@ -18,7 +18,7 @@ Build a SSR application.
 
 ### `yarn build:standalone`
 
-Build a standalone SPA that you can open the build html file(dist/client/index.html) directly in a browser without any server.
+Build a standalone SPA that you can open the build html file(`dist/client/index.html`) directly in a browser without any server.
 
 ### `yarn serve`
 
