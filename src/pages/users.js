@@ -1,4 +1,4 @@
-import Link from "@shuvi/runtime-react/link";
+import Link from "@shuvi/app/link";
 
 export default class User extends React.Component {
   static getInitialProps() {
