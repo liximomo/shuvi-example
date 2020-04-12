@@ -1,7 +1,6 @@
-import Link from "@shuvi/app/link";
+import { Link } from "@shuvi/app";
 
 function HomePage() {
-  
   return (
     <div>
       <p>Welcome to shuvi!</p>
